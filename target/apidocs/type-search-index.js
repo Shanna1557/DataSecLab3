@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AccessAuthorization"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Client"},{"p":"<Unnamed>","l":"HashingTest"},{"p":"<Unnamed>","l":"HashingUtil"},{"p":"<Unnamed>","l":"IPrinterManager"},{"p":"<Unnamed>","l":"PrinterJob"},{"p":"<Unnamed>","l":"PrinterManager"},{"p":"<Unnamed>","l":"PrinterManagerServer"}]

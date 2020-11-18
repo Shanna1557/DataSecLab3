@@ -1,0 +1,160 @@
+[1605113266006] Unsuccessful attempt to log in using username  laice
+[1605113274296] Logged in user alice
+(Token: mljiwgkinrqqdsqpiavffuxoq)
+[1605114001431] Logged in user alice
+(Token: dekqazhjiqzoiqrgvpirqdiym)
+[1605114024917] Logged in user alice
+(Token: ncgfirbmmrqqytscwlthucqji)
+[1605114092214] Logged in user alice
+(Token: yhdyhpshqubbxhydunfprsyxf)
+[1605114398892] Logged in user alice
+(Token: ltbilkgethwlhzpilyqybggwu)
+[1605115141954] Logged in user alice
+(Token: oruphosrcisfvxcfnqqanofsi)
+[1605127667657] Unsuccessful attempt to log in using username  alice
+[1605127672478] Logged in user alice
+(Token: oojfkvmpprcswpbsheviobwoo)
+[1605128248913] Logged in user alice
+(Token: iwukewfsnsgjusrigvgyspixg)
+[1605128427125] Logged in user alice
+(Token: ehzrxdqxfzamnxeslvpyshgrp)
+[1605128599778] Logged in user alice
+(Token: ylzsatcyipjbeqyimivmceaxv)
+[1605129021242] Logged in user alice
+(Token: pbosjdijavyobrnnnmoznfpqk)
+[1605129381547] Logged in user alice
+(Token: vooosbcesienlpcfabidnzaar)
+[1605129464222] Logged in user alice
+(Token: vhchylswpzlqyufkxecwkjfmx)
+[1605130375327] Logged in user alice
+(Token: gksuiinwkxebruegvypbuctag)
+[1605130473500] Logged in user alice
+(Token: kwuzkffkvsativofbmmgcrcbu)
+[1605130587968] Logged in user alice
+(Token: rvebgtbxljbussqtzdhavyjar)
+[1605130977229] Logged in user alice
+(Token: azuhoawlcoarbfckktndlfgep)
+[1605131175820] Logged in user alice
+(Token: svefpkmnthxxyirrpgmtecjyv)
+[1605131267975] Logged in user alice
+(Token: ajzlucsadpcbtwpkckhckmoxs)
+[1605131541282] Logged in user alice
+(Token: piguullxbqchmjzmtkoybgwcu)
+[1605131681455] Logged in user alice
+(Token: mpcthozefrfocfflpnthaorik)
+[1605131684388] / Token mpcthozefrfocfflpnthaorik
+	Adding the file 1to the queue on the printer 1
+[1605131698232] / Token mpcthozefrfocfflpnthaorik
+	Attempt to restart the server.
+[1605131698263] / Token mpcthozefrfocfflpnthaorik
+	Successfully stopped the server.
+[1605131698299] / Token mpcthozefrfocfflpnthaorik
+	Successfully started the server.
+[1605131698299] / Token mpcthozefrfocfflpnthaorik
+	Server restarted successfully.
+[1605131706751] User mpcthozefrfocfflpnthaorik has logged off from the server
+[1605131714376] Logged in user bob
+(Token: snxlupypjabolemrhubihztsa)
+[1605131716419] / Token snxlupypjabolemrhubihztsa
+	Adding the file 1to the queue on the printer 1
+[1605131749768] / Token snxlupypjabolemrhubihztsa
+	Successfully stopped the server.
+[1605131838103] Logged in user bob
+(Token: vxzjzlsexfhypewmapnrlhknl)
+[1605131841759] / Token vxzjzlsexfhypewmapnrlhknl
+	Unauthorized attempt to start the server
+[1605131849083] / Token vxzjzlsexfhypewmapnrlhknl
+	Unauthorized attempt to start the server
+[1605131858195] / Token vxzjzlsexfhypewmapnrlhknl
+	Successfully stopped the server.
+[1605131864787] / Token vxzjzlsexfhypewmapnrlhknl
+	Successfully started the server.
+[1605131870789] User vxzjzlsexfhypewmapnrlhknl has logged off from the server
+[1605131881600] Logged in user cecilia
+(Token: fcftcnwrnhhxyljatbvbgvbhv)
+[1605131892188] / Token fcftcnwrnhhxyljatbvbgvbhv
+	Unauthorized attempt to start the server
+[1605131949054] User fcftcnwrnhhxyljatbvbgvbhv has logged off from the server
+[1605452320030] Logged in user alice
+(Token: tqvqmodiceyfgtkvuucsaekcq)
+[1605452340917] / Token tqvqmodiceyfgtkvuucsaekcq
+	Adding the file ato the queue on the printer b
+[1605453289171] Logged in user bob
+(Token: rwqweeboacpdzafybzkascdbj)
+[1605453298906] / Token rwqweeboacpdzafybzkascdbj
+	Unauthorized attempt to start the server
+[1605453325131] / Token bob
+	Successfully stopped the server.
+[1605453332570] / Token bob
+	Successfully started the server.
+[1605453764651] Logged in user cecilia
+(Token: hdopxelxyfkmzjhbcuxubpupk)
+[1605453777585] Logged in user cecilia
+(Token: kqrsrifnatjkuwevmhkowzfbd)
+[1605453800976] User kqrsrifnatjkuwevmhkowzfbd has logged off from the server
+[1605714111291] Logged in user alice
+(Token: yceliyhtycrhzzaichtuarwiw)
+[1605714329816] Logged in user alice
+(Token: pfkohcfpknbnleisdyvegogxk)
+[1605714397749] Logged in user alice
+(Token: fuummfdpzzwaxgaldgshjjcor)
+[1605714452882] Logged in user alice
+(Token: knotyajmllipzklbddsusahee)
+[1605714464554] / Token alice
+	Access to the server configuration.
+[1605714481994] / Token alice
+	Successfully stopped the server.
+[1605714484831] / Token alice
+	Successfully started the server.
+[1605714834526] Logged in user alice
+(Token: mpgzodmcilmxvlrdlaifjkquu)
+[1605714839616] / Token alice
+	Attempt to restart the server.
+[1605714839629] / Token alice
+	Successfully stopped the server.
+[1605714839632] / Token alice
+	Successfully started the server.
+[1605714839633] / Token mpgzodmcilmxvlrdlaifjkquu
+	Server restarted successfully.
+[1605714960106] Logged in user alice
+(Token: pmzfexptxorexaijdtpqesdby)
+[1605714964523] / Token alice
+	Attempt to restart the server.
+[1605714964541] / Token alice
+	Successfully stopped the server.
+[1605714964544] / Token alice
+	Successfully started the server.
+[1605714964546] / Token pmzfexptxorexaijdtpqesdby
+	Server restarted successfully.
+[1605714982082] / Token alice
+	Successfully stopped the server.
+[1605714984763] / Token alice
+	Successfully started the server.
+[1605714990605] User pmzfexptxorexaijdtpqesdby has logged off from the server
+[1605715008557] Logged in user bob
+(Token: cqdsofcyubpobeyogjyidsvxc)
+[1605715022336] / Token bob
+	Unauthorized attempt to switchACMode  
+[1605715031759] User cqdsofcyubpobeyogjyidsvxc has logged off from the server
+[1605715360038] Logged in user alice
+(Token: grkbfgscllmtoqrglyuhbodkn)
+[1605715363929] / Token alice
+	Attempt to restart the server.
+[1605715363944] / Token alice
+	Successfully stopped the server.
+[1605715363950] / Token alice
+	Successfully started the server.
+[1605715363951] / Token grkbfgscllmtoqrglyuhbodkn
+	Server restarted successfully.
+[1605715391727] / Token alice
+	Successfully stopped the server.
+[1605715426438] / Token alice
+	Successfully started the server.
+[1605715579163] / Token alice
+	Attempt to restart the server.
+[1605715579166] / Token alice
+	Successfully stopped the server.
+[1605715579173] / Token alice
+	Successfully started the server.
+[1605715579174] / Token grkbfgscllmtoqrglyuhbodkn
+	Server restarted successfully.
